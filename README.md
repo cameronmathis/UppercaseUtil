@@ -13,7 +13,7 @@
 
 ## General info
 
-I developed this Uppercase Util Maven Dependency in order to familiarize myself with the process of creating Maven Dependencies.
+This is a simple utility I created in order to familiarize myself with the process of publishing Maven Dependencies.
 
 ## Setup
 
