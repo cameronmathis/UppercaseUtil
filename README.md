@@ -1,4 +1,4 @@
-[![CodeQL]([![CodeQL](https://github.com/cameronmathis/UppercaseUtil/actions/workflows/codeql-analysis.yaml/badge.svg)](https://github.com/cameronmathis/UppercaseUtil/actions/workflows/codeql-analysis.yaml))
+[![CodeQL](https://github.com/cameronmathis/UppercaseUtil/actions/workflows/codeql-analysis.yaml/badge.svg)](https://github.com/cameronmathis/UppercaseUtil/actions/workflows/codeql-analysis.yaml)
 [![CodeFactor](https://www.codefactor.io/repository/github/cameronmathis/UppercaseUtil/badge)](https://www.codefactor.io/repository/github/cameronmathis/UppercaseUtil)
 
 # Uppercase Util
