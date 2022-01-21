@@ -17,7 +17,17 @@ I developed this Uppercase Util Maven Dependency in order to familiarize myself 
 
 ## Setup
 
-In order to use this utility.
+In order to use this utility, add it as a pom dependency. <br/>
+
+com.uppercase.util 1.0.0-RELEASE
+
+```xml
+<dependency>
+    <groupId>com.uppercase.util</groupId>
+    <artifactId>uppercase-util</artifactId>
+    <version>1.0.0-RELEASE</version>
+</dependency>
+```
 
 ## Software details
 
@@ -27,7 +37,7 @@ Packaging: Jar <br/>
 
 ## Status
 
-Version: 1.0.0 <br/>
+Version: 1.0.0-RELEASE <br/>
 Project is: _in progress_
 
 ## Contact
